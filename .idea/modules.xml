@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LogUtilExample.iml" filepath="$PROJECT_DIR$/.idea/modules/LogUtilExample.iml" group="LogUtilExample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="LogUtilExample/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logutil/logutil.iml" filepath="$PROJECT_DIR$/.idea/modules/logutil/logutil.iml" group="LogUtilExample/logutil" />
+    </modules>
+  </component>
+</project>
