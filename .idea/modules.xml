@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LogUtilExample.iml" filepath="$PROJECT_DIR$/.idea/modules/LogUtilExample.iml" group="LogUtilExample" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="LogUtilExample/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/errorutil/errorutil.iml" filepath="$PROJECT_DIR$/.idea/modules/errorutil/errorutil.iml" group="LogUtilExample/errorutil" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/logutil/logutil.iml" filepath="$PROJECT_DIR$/.idea/modules/logutil/logutil.iml" group="LogUtilExample/logutil" />
     </modules>
   </component>
