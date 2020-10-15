@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LogUtilExample.iml" filepath="$PROJECT_DIR$/.idea/modules/LogUtilExample.iml" group="LogUtilExample" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="LogUtilExample/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/errorutil/errorutil.iml" filepath="$PROJECT_DIR$/.idea/modules/errorutil/errorutil.iml" group="LogUtilExample/errorutil" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagepicker/imagepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/imagepicker/imagepicker.iml" group="LogUtilExample/imagepicker" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/logutil/logutil.iml" filepath="$PROJECT_DIR$/.idea/modules/logutil/logutil.iml" group="LogUtilExample/logutil" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runtime-camera-storage-permission/runtime-camera-storage-permission.iml" filepath="$PROJECT_DIR$/.idea/modules/runtime-camera-storage-permission/runtime-camera-storage-permission.iml" group="LogUtilExample/runtime-camera-storage-permission" />
     </modules>
   </component>
 </project>

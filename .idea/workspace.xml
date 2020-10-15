@@ -6,30 +6,62 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57342343-d648-40ea-a28b-fb928dd69470" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/errorutil/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errorutil/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errorutil/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errorutil/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errorutil/src/androidTest/java/com/anirudh/errorutil/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errorutil/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errorutil/src/main/java/com/anirudh/errorutil/ErrorDebug.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errorutil/src/test/java/com/anirudh/errorutil/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/errorutil/errorutil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/imagepicker/imagepicker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/runtime-camera-storage-permission/runtime-camera-storage-permission.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/androidTest/java/com/anirudh/imagepicker/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/main/java/com/anirudh/imagepicker/ImagePickerActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/main/java/com/anirudh/imagepicker/RunTimePermissions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/main/res/drawable/ic_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/main/res/layout/activity_image_picker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/main/res/layout/custom_toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagepicker/src/test/java/com/anirudh/imagepicker/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime-camera-storage-permission/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime-camera-storage-permission/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime-camera-storage-permission/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime-camera-storage-permission/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime-camera-storage-permission/src/androidTest/java/com/anirudh/runtime_camera_storage_permission/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime-camera-storage-permission/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime-camera-storage-permission/src/main/java/com/anirudh/runtime_camera_storage_permission/CamStoragePermission.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime-camera-storage-permission/src/test/java/com/anirudh/runtime_camera_storage_permission/ExampleUnitTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/logutil/logutil.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/logutil/logutil.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/anirudh/logutilexample/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/anirudh/logutilexample/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +85,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="layoutResourceFile" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -68,11 +101,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="memory.settings.postsync.last.time.stamp" value="1602653435594" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imagepicker/src/main/res/drawable" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1602754915980" />
+    <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -80,10 +115,72 @@
   <component name="PsdUISettings">
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.anirudh.runtime_camera_storage_permission" />
+    </key>
+    <key name="android.template.1208669141">
+      <recent name="com.anirudh.imagepicker" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imagepicker/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImagePickerActivity" type="AndroidRunConfigurationType" factoryName="Android App" temporary="true">
+      <module name="imagepicker" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.anirudh.imagepicker.ImagePickerActivity" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -139,6 +236,11 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android App.ImagePickerActivity" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -179,68 +281,132 @@
       <option name="project" value="LOCAL" />
       <updated>1602655645199</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="created module for error debug">
+      <created>1602660562640</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602660562640</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created a log library" />
     <MESSAGE value="created a log library intial commit" />
     <MESSAGE value="merge license" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge license" />
+    <MESSAGE value="created module for error debug" />
+    <option name="LAST_COMMIT_MESSAGE" value="created module for error debug" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="245" y="162" key="#PSD" timestamp="1602660284168">
+    <state x="413" y="63" key="#ImagePickerActivity" timestamp="1602679487219">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="245" y="162" key="#PSD/0.23.1440.804@0.23.1440.804" timestamp="1602660284168" />
+    <state x="413" y="63" key="#ImagePickerActivity/0.23.1440.804@0.23.1440.804" timestamp="1602679487219" />
+    <state x="245" y="162" key="#PSD" timestamp="1602755583884">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="245" y="162" key="#PSD/0.23.1440.804@0.23.1440.804" timestamp="1602755583884" />
+    <state x="499" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1602745813601">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="499" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.804@0.23.1440.804" timestamp="1602745813601" />
+    <state x="308" y="83" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1602755142524">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="308" y="83" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1440.804@0.23.1440.804" timestamp="1602755142524" />
     <state x="411" y="275" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602660355149">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="411" y="275" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.804@0.23.1440.804" timestamp="1602660355149" />
-    <state x="339" y="23" key="CommitChangelistDialog2" timestamp="1602655644984">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state x="308" y="185" key="AndroidCreateResourceDirectoryDialog" timestamp="1602683510654">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="308" y="185" key="AndroidCreateResourceDirectoryDialog/0.23.1440.804@0.23.1440.804" timestamp="1602683510654" />
+    <state x="308" y="185" key="AndroidCreateResourceFileDialog" timestamp="1602685054057">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="308" y="185" key="AndroidCreateResourceFileDialog/0.23.1440.804@0.23.1440.804" timestamp="1602685054057" />
+    <state x="339" y="23" key="CommitChangelistDialog2" timestamp="1602660562116">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="339" y="23" key="CommitChangelistDialog2/0.23.1440.801@0.23.1440.801" timestamp="1602655644984" />
-    <state width="1398" height="334" key="GridCell.Tab.0.bottom" timestamp="1602660277577">
+    <state x="339" y="23" key="CommitChangelistDialog2/0.23.1440.804@0.23.1440.804" timestamp="1602660562116" />
+    <state width="1398" height="255" key="GridCell.Tab.0.bottom" timestamp="1602745853539">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1398" height="163" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1602654927611" />
-    <state width="1398" height="334" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1602660277577" />
-    <state width="1398" height="334" key="GridCell.Tab.0.center" timestamp="1602660277576">
+    <state width="1398" height="255" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1602745853539" />
+    <state width="1398" height="255" key="GridCell.Tab.0.center" timestamp="1602745853538">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1398" height="163" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1602654927610" />
-    <state width="1398" height="334" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1602660277576" />
-    <state width="1398" height="334" key="GridCell.Tab.0.left" timestamp="1602660277575">
+    <state width="1398" height="255" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1602745853538" />
+    <state width="1398" height="255" key="GridCell.Tab.0.left" timestamp="1602745853537">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1398" height="163" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1602654927609" />
-    <state width="1398" height="334" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1602660277575" />
-    <state width="1398" height="334" key="GridCell.Tab.0.right" timestamp="1602660277576">
+    <state width="1398" height="255" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1602745853537" />
+    <state width="1398" height="255" key="GridCell.Tab.0.right" timestamp="1602745853538">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="1398" height="163" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1602654927611" />
-    <state width="1398" height="334" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1602660277576" />
-    <state x="320" y="163" key="Vcs.Push.Dialog.v2" timestamp="1602655650533">
-      <screen x="0" y="23" width="1440" height="801" />
+    <state width="1398" height="255" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1602745853538" />
+    <state x="320" y="164" key="Vcs.Push.Dialog.v2" timestamp="1602660578505">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1602655650533" />
-    <state x="390" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1602653431864">
+    <state x="320" y="164" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1602660578505" />
+    <state x="100" y="123" width="1240" height="601" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602734582641">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="390" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1602653431864" />
+    <state x="100" y="123" width="1240" height="601" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.801@0.23.1440.801" timestamp="1602734582641" />
+    <state x="390" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1602734106141">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="390" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1602734106141" />
+    <state x="372" y="180" width="695" height="486" key="find.popup" timestamp="1602683420706">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="372" y="180" width="695" height="486" key="find.popup/0.23.1440.804@0.23.1440.804" timestamp="1602683420706" />
     <state x="373" y="222" key="git4idea.merge.GitPullDialog" timestamp="1602655544108">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="373" y="222" key="git4idea.merge.GitPullDialog/0.23.1440.801@0.23.1440.801" timestamp="1602655544108" />
-    <state width="300" height="60" key="javadoc.popup.new" timestamp="1602659879365">
+    <state width="300" height="60" key="javadoc.popup.new" timestamp="1602755971418">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state width="300" height="59" key="javadoc.popup.new/0.23.1440.801@0.23.1440.801" timestamp="1602653819660" />
-    <state width="300" height="60" key="javadoc.popup.new/0.23.1440.804@0.23.1440.804" timestamp="1602659879365" />
-    <state x="406" y="76" key="psd.add.module.dependency.panel.dimension" timestamp="1602658301100">
+    <state width="300" height="60" key="javadoc.popup.new/0.23.1440.804@0.23.1440.804" timestamp="1602755971418" />
+    <state x="406" y="76" key="psd.add.module.dependency.panel.dimension" timestamp="1602755578996">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="406" y="76" key="psd.add.module.dependency.panel.dimension/0.23.1440.804@0.23.1440.804" timestamp="1602658301100" />
+    <state x="406" y="76" key="psd.add.module.dependency.panel.dimension/0.23.1440.804@0.23.1440.804" timestamp="1602755578996" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/anirudh/logutilexample/MainActivity.kt</url>
+          <line>92</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/imagepicker/src/main/java/com/anirudh/imagepicker/ImagePickerActivity.kt</url>
+          <line>75</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/imagepicker/src/main/java/com/anirudh/imagepicker/ImagePickerActivity.kt</url>
+          <line>76</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/imagepicker/src/main/java/com/anirudh/imagepicker/RunTimePermissions.kt</url>
+          <line>71</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,3 +1,5 @@
+include ':runtime-camera-storage-permission'
+include ':imagepicker'
 include ':errorutil'
 include ':logutil'
 include ':app'
