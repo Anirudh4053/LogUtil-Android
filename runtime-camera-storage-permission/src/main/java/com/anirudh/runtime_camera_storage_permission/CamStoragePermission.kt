@@ -15,6 +15,7 @@ import androidx.core.app.ActivityCompat
 class CamStoragePermission {
     companion object {
         const val PERMISSION_CALLBACK_CONSTANT = 102
+        const val PERMISSION_CALLBACK_SUCCESS = 113
         const val REQUEST_PERMISSION_SETTING = 103
         const val PERMISSION_REQUIRED = Manifest.permission.WRITE_EXTERNAL_STORAGE
         var sentToSettings = false
@@ -36,7 +37,7 @@ class CamStoragePermission {
         }
         class Builder(activity: Activity) {
             private var activity = activity
-            fun checkPermission():Boolean {
+            fun checkPermission() {
                 if (ActivityCompat.checkSelfPermission(activity, permissionsRequired[0]) != PackageManager.PERMISSION_GRANTED
                     || ActivityCompat.checkSelfPermission(activity, permissionsRequired[1]) != PackageManager.PERMISSION_GRANTED
                     || ActivityCompat.checkSelfPermission(activity, permissionsRequired[2]) != PackageManager.PERMISSION_GRANTED
@@ -79,9 +80,14 @@ class CamStoragePermission {
                     }
                     setPermissionRequest(activity,true)
                 } else {
-                    return true
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                        activity.requestPermissions(
+                            permissionsRequired,
+                            PERMISSION_CALLBACK_SUCCESS
+                        )
+                    }
                 }
-                return false
+                //return false
             }
             private fun setPermissionRequest(context: Context, value: Boolean) {
                 val sharedPref = context.getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE)

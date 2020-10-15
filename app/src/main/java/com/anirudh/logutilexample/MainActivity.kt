@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>, grantResults: IntArray) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults)
-        if (requestCode == PERMISSION_CALLBACK_CONSTANT) {
+        if (requestCode == CamStoragePermission.PERMISSION_CALLBACK_CONSTANT) {
             //check if all permissions are granted
             var allgranted = false
             for (i in grantResults.indices) {
@@ -78,16 +78,18 @@ class MainActivity : AppCompatActivity() {
                 builder.setNegativeButton("Cancel") { dialog, which -> dialog.cancel() }
                 builder.show()
             } else {
-                if(RunTimePermissions(this).checkPermission()) {
-                    proceedAfterPermission()
-                }
+                CamStoragePermission.with(this).checkPermission()
             }
+        }
+        if (requestCode == CamStoragePermission.PERMISSION_CALLBACK_SUCCESS) {
+            proceedAfterPermission()
         }
 
     }
 
     private fun proceedAfterPermission() {
         //open camera
+        Toast.makeText(this,"open gallery runtime permission", Toast.LENGTH_SHORT).show()
     }
     override fun onPostResume() {
         super.onPostResume()
@@ -100,9 +102,7 @@ class MainActivity : AppCompatActivity() {
                 setSettingFlag(false)
                 proceedAfterPermission()
             } else {
-                if(RunTimePermissions(this).checkPermission()) {
-                    proceedAfterPermission()
-                }
+                CamStoragePermission.with(this).checkPermission()
             }
         }
     }
