@@ -1,3 +1,4 @@
+include ':LocationPermissions'
 include ':runtime-camera-storage-permission'
 include ':imagepicker'
 include ':errorutil'
