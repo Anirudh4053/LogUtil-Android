@@ -15,15 +15,20 @@ class LocationRunTimePermission {
         }
         class Builder(activity: Activity) {
             private var activity = activity
-            fun checkPermission() {
-                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+
+            fun checkPermission():Boolean {
+                return if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
                     if (activity.checkSelfPermission(Manifest.permission.ACCESS_FINE_LOCATION) ==
                         PackageManager.PERMISSION_GRANTED) {
+                        true
                     } else {
                         // Show the permission request
                         ActivityCompat.requestPermissions(activity, arrayOf(Manifest.permission.ACCESS_FINE_LOCATION),
                             REQUEST_PERMISSION_LOCATION)
+                        false
                     }
+                } else {
+                    true
                 }
             }
         }
